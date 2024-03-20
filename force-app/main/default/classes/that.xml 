@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>50.0</apiVersion>
+    <status>Active</status>
+    <metadataType>ApexClass</metadataType>
+    <fullName>BankLoanApprovalProcess</fullName>
+    <description>Evaluates documents and creditworthiness for loan approval process</description>
+    <content>
+        // Apex class content goes here
+    </content>
+    <testMethods>
+        // Test methods for the class go here
+    </testMethods>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace></namespace>
+    </packageVersions>
+</ApexClass>
